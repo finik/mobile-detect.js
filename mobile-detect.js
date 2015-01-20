@@ -253,7 +253,7 @@ define(function () {
         ]
     },
     "utils": {
-        "Bot": "Googlebot|AdsBot-Google|Google Keyword Suggestion|YandexBot|rogerbot|bingbot|ia_archiver|AhrefsBot|Ezooms|GSLFbot|WBSearchBot|Twitterbot|TweetmemeBot|Twikle|PaperLiBot|Wotbox|UnwindFetchor|facebookexternalhit",
+        "Bot": "Googlebot|AdsBot-Google|Google Keyword Suggestion|YandexBot|rogerbot|MJ12bot|bingbot|ia_archiver|AhrefsBot|Ezooms|GSLFbot|WBSearchBot|Twitterbot|TweetmemeBot|Twikle|PaperLiBot|Wotbox|UnwindFetchor|facebookexternalhit",
         "MobileBot": "Googlebot-Mobile|AdsBot-Google-Mobile|YahooSeeker\/M1A1-R2D2",
         "DesktopMode": "WPDesktop",
         "TV": "SonyDTV|HbbTV",
